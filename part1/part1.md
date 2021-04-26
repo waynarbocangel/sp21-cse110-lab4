@@ -41,7 +41,7 @@ The function will return an array with all the discouted prices which would be "
 **B.** student["Grad Year"];\
 **C.** student.greeting();\
 **D.** student["Favorite Teacher"].name;\
-**E.** student.courseLoad[0];\
+**E.** student.courseLoad[0];
 ### Question 13
 **A.** The output would be the string "32" since 2 maps to the string 2 and then JS performs concatenation.\
 **B.** The output would be the number "1" since the string 3 maps to the number 3 and the JS performs number arithmetic.\
@@ -50,14 +50,14 @@ The function will return an array with all the discouted prices which would be "
 **E.** The output would be the number "4" since true maps to the number 1 and JS performs number arithmetic.\
 **F.** The output would be the number "0" since false maps to 0 and null maps to 0 and JS performs number arithmetic.\
 **G.** The output would be the string "3undefined" since undefined maps to the string "undefined" and JS performes concatenation.\
-**H.** The output would be the expression NaN which is used to represent arithmetic operations that have no clear answer since JS can't map string into number because there are no numbers in the expression and there is no negative concatenation meaning that JS can't reach a result with the given expression.\
+**H.** The output would be the expression NaN which is used to represent arithmetic operations that have no clear answer since JS can't map string into number because there are no numbers in the expression and there is no negative concatenation meaning that JS can't reach a result with the given expression.
 ### Question 14
 **A.** The output is true since the string "2" maps to the number 2 and 2 is greater than 1.\
 **B.** The output is false since the string "2" is greater than the first letter of the string "12".\
 **C.** The output is true since the string "2" maps to the number 2 which is equal to number 2.\
 **D.** The output is false since the string "2" is not the same type as the number 2.\
 **E.** The output is false since true maps to the number 1 which is not the same as the number 2.\
-**F.** The output is true since true and Booleand(2) have the same value true and are both of the same type.\
+**F.** The output is true since true and Booleand(2) have the same value true and are both of the same type.
 ### Question 15
 The == operator compares two values and uses JS logic to see if the two values are equivalent. The === operator compares two expressions and checks that both their values and types are equivalent.
 ### Question 17
